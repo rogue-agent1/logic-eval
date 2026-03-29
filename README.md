@@ -1,13 +1,6 @@
 # logic_eval
-
-Boolean logic evaluator — AND, OR, NOT, XOR, truth tables
-
+Single-file Python CLI tool. Zero dependencies, Python 3.8+.
 ## Usage
-
 ```bash
-python3 logic_eval.py --help
+python3 logic_eval.py --test
 ```
-
-## License
-
-MIT
